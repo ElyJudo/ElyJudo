@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Ely Judo RALIZARA
 
-<!--
-**ElyJudo/ElyJudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Développeur en apprentissage
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Python](https://img.shields.io/badge/Python-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+Je suis un étudiant passionné par la programmation et le développement web.  
+J'aime apprendre de nouvelles technologies et créer des projets pour améliorer mes compétences.
+
+## 📚 Technologies
+- HTML / CSS
+- JavaScript
+- Python
+- MySQL
+- Git / GitHub
+- Linux (Ubuntu)
+
+## 📫 Contact
+- GitHub : https://github.com/ElyJudo
